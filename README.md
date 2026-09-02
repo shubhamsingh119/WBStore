@@ -2,7 +2,7 @@
 
 A multi-page e-commerce product listing and shopping app built with Next.js (App Router), Tailwind CSS, and Zustand — built as a frontend internship assignment.
 
-**Live demo:** _add your Vercel deployment URL here after deploying_
+**Live demo:**https://wb-store-three.vercel.app/
 
 ## Features
 
